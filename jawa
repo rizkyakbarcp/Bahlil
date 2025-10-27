@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nama": "Kostum Adat Bali",
+    "asal": "Bali",
+    "deskripsi": "Kostum adat Bali dikenal dengan warna cerah dan hiasan kepala yang indah. Biasanya digunakan dalam upacara adat dan pernikahan.",
+    "harga_sewa": 150000,
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Balinese_traditional_dress.jpg"
+  },
+  {
+    "id": 2,
+    "nama": "Kostum Adat Jawa",
+    "asal": "Jawa Tengah",
+    "deskripsi": "Kostum adat Jawa menampilkan kebaya dan beskap dengan kain batik. Umumnya dipakai dalam acara resmi dan adat keraton.",
+    "harga_sewa": 130000,
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/19/Javanese_traditional_dress.jpg"
+  },
+  {
+    "id": 3,
+    "nama": "Kostum Adat Minangkabau",
+    "asal": "Sumatera Barat",
+    "deskripsi": "Ciri khas kostum adat Minangkabau terletak pada hiasan kepala wanita yang menyerupai tanduk kerbau, disebut suntiang.",
+    "harga_sewa": 160000,
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/7/72/Minangkabau_traditional_dress.jpg"
+  },
+  {
+    "id": 4,
+    "nama": "Kostum Adat Dayak",
+    "asal": "Kalimantan Barat",
+    "deskripsi": "Kostum adat Dayak sering menggunakan bahan alami seperti manik-manik, bulu burung enggang, dan kain tenun khas Kalimantan.",
+    "harga_sewa": 140000,
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/9/91/Dayak_traditional_dress.jpg"
+  },
+  {
+    "id": 5,
+    "nama": "Kostum Adat Bugis",
+    "asal": "Sulawesi Selatan",
+    "deskripsi": "Kostum adat Bugis menonjolkan warna emas dan hijau dengan motif khas. Pakaian ini digunakan dalam upacara adat dan pernikahan.",
+    "harga_sewa": 145000,
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bugis_traditional_dress.jpg"
+  },
+  {
+    "id": 6,
+    "nama": "Kostum Adat Batak",
+    "asal": "Sumatera Utara",
+    "deskripsi": "Kostum adat Batak menggunakan kain ulos sebagai simbol kehangatan dan kebersamaan dalam masyarakat Batak.",
+    "harga_sewa": 135000,
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Batak_traditional_dress.jpg"
+  },
+  {
+    "id": 7,
+    "nama": "Kostum Adat Papua",
+    "asal": "Papua",
+    "deskripsi": "Kostum adat Papua terbuat dari bahan alami seperti daun, akar, dan bulu burung. Setiap suku memiliki corak yang berbeda.",
+    "harga_sewa": 120000,
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Papuan_traditional_dress.jpg"
+  },
+  {
+    "id": 8,
+    "nama": "Kostum Adat Sunda",
+    "asal": "Jawa Barat",
+    "deskripsi": "Kostum adat Sunda dikenal dengan kesederhanaannya, seperti kebaya putih dan kain batik yang elegan untuk wanita.",
+    "harga_sewa": 125000,
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Sundanese_traditional_dress.jpg"
+  },
+  {
+    "id": 9,
+    "nama": "Kostum Adat Betawi",
+    "asal": "DKI Jakarta",
+    "deskripsi": "Kostum adat Betawi adalah kombinasi budaya Tionghoa, Arab, dan Melayu, dengan warna cerah dan hiasan khas pada kebaya.",
+    "harga_sewa": 130000,
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/0/03/Betawi_traditional_dress.jpg"
+  },
+  {
+    "id": 10,
+    "nama": "Kostum Adat Sasak",
+    "asal": "Nusa Tenggara Barat",
+    "deskripsi": "Kostum adat Sasak memiliki corak tenun khas Lombok yang kaya warna dan sering dipakai dalam upacara adat pernikahan.",
+    "harga_sewa": 140000,
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Sasak_traditional_dress.jpg"
+  }
+]
